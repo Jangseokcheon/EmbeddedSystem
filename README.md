@@ -12,4 +12,10 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 이 프로젝트에 사용한 Node_Red 관련 코드는 Red branch에 작성하였습니다.
 
 ## 요구 사항
-<pre><code>{code}</code></pre>
+```java
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
