@@ -9,7 +9,7 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 * Jetson Nano를 통해 받아온 영상을 Node_Red 화면에 출력합니다.
 * Node_Red에서 차트나 그래프를 출력합니다.
 
-이 프로젝트에 사용한 Node_Red 관련 코드는 Node_Red branch에 작성하였습니다.
+이 프로젝트에 사용한 Node_Red 관련 코드는 [Node_Red](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red) branch에 작성하였습니다.
 
 ## 요구 사항
 * [Node_Red](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
@@ -17,3 +17,11 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 * Jetson Nano 보드
 * rp2040 센서
 * 카메라
+
+## 주제 수행 내용
+* 
+
+## 블록도
+
+## 구현 영상
+
