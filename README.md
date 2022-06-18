@@ -12,6 +12,6 @@
 
 ## 설치
 1. 중간에서 발신자,수신자를 연결해 줄 브로커 설치(Mosquitto)
-```
+`
 sudo apt install mosquitto -y
-```
+`
