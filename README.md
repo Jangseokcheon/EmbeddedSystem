@@ -19,3 +19,11 @@
 `$ sudo apt install nodejs -y`   
 4. nvm 설치스크립트를 다운로드   
 `$ curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh –o install_nvm.sh`   
+4. 다운로드한 nvm 설치 스크립트를 실행하고 OS 재부팅되도 환경변수 유지되게 설정   
+`$ bash install_nvm.sh`   
+`$ source ~/.profile`   
+5. Node_Red 설치   
+`$ nvm install node`
+`$ sudo snap install node-red `
+
+## Node_Red 화면
