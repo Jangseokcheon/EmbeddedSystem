@@ -26,6 +26,10 @@
 `$ nvm install node`
 `$ sudo snap install node-red `
 
+## Node_Red DashBoard
+
+![Screenshot from 2022-06-20 01-36-01](https://user-images.githubusercontent.com/86651809/174491498-f642cc6f-d31c-4197-912c-02cdcff28f76.png)
+
 ## Node_Red 화면
 
 
