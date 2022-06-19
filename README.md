@@ -29,5 +29,3 @@
 ## Node_Red 화면
 
 
-https://user-images.githubusercontent.com/86651809/174486970-67ab39ce-040a-4cf8-b516-5a3dd388495e.mp4
-
