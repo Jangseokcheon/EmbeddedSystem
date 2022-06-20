@@ -32,4 +32,6 @@
 
 ## Node_Red 화면
 
+![cxc](https://user-images.githubusercontent.com/86651809/174577329-6b7ba4f2-d54c-4116-b8c4-40e2947f37db.gif)
+
 
