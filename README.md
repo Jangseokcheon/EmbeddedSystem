@@ -24,6 +24,7 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 * rp2040에 달려있는 온도 센서를 이용하여 현재 온도를 Node_Red 화면에 출력
 * Jetson Nano에 달려 있는 카메라를 이용하여 사용자가 걷고 있는지 멈춰 있는지 파악할 수 있게 영상 스트리밍
 * 위에서 받아온 정보들을 가공하여 Node_Red Ui 화면 구성
+* 컴퓨터와 유저 간에 가위 바위 보 게임
 
 ## 블록도
 ![easd](https://user-images.githubusercontent.com/86651809/174460050-2d7856cc-2cd5-4d56-9b1d-7b14f558d535.JPG)
