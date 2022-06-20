@@ -30,3 +30,5 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 
 ## 구현 영상
 
+https://user-images.githubusercontent.com/86651809/174586525-659aa813-b212-4624-a89b-2a19345076d0.mp4
+
