@@ -30,6 +30,11 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 ![easd](https://user-images.githubusercontent.com/86651809/174460050-2d7856cc-2cd5-4d56-9b1d-7b14f558d535.JPG)
 
 ## 구현 영상
-
 https://user-images.githubusercontent.com/86651809/174586525-659aa813-b212-4624-a89b-2a19345076d0.mp4
 
+## 참고 자료
+* [ARM](https://survivalking.tistory.com/49)
+* [IMU_Sensor](https://m.blog.naver.com/PostView.naver?blogId=hs929kr&logNo=221794948258&categoryNo=10&proxyReferer=)
+* [uf2_File_format](https://github.com/microsoft/uf2)
+* [I2C](https://mickael-k.tistory.com/184)
+* [Python_CodeBlock](https://dojang.io/mod/page/view.php?id=1196)
