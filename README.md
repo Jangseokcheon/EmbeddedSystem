@@ -13,7 +13,7 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 
 ## 요구 사항
 * [Node_Red](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
-* [MQTT](https://github.com/Jangseokcheon/EmbeddedSystem/tree/Node_Red)
+* [MQTT](https://medium.com/@jspark141515/mqtt%EB%9E%80-314472c246ee)
 * Jetson Nano 보드
 * rp2040 센서
 * 카메라
