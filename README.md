@@ -28,6 +28,7 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 
 ## 블록도
 ![xzcxzc](https://user-images.githubusercontent.com/86651809/174607899-b3137f37-63ab-4148-877c-0d85b1c41598.JPG)
+![345435](https://user-images.githubusercontent.com/86651809/174716576-97bd1db7-80e1-4881-ae6c-6983dc9df68c.JPG)
 
 ## 구현 영상
 https://user-images.githubusercontent.com/86651809/174692405-baeecc64-c0b9-4c50-84e7-49187d02c258.mp4
