@@ -32,6 +32,9 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 ## 구현 영상
 https://user-images.githubusercontent.com/86651809/174586525-659aa813-b212-4624-a89b-2a19345076d0.mp4
 
+https://user-images.githubusercontent.com/86651809/174690735-4f83e448-72d2-49b7-b79e-cc7e910fc49a.mp4
+
+
 ## 참고 자료
 * [ARM](https://survivalking.tistory.com/49)
 * [IMU_Sensor](https://m.blog.naver.com/PostView.naver?blogId=hs929kr&logNo=221794948258&categoryNo=10&proxyReferer=)
