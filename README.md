@@ -27,7 +27,7 @@ Node_Red는 JavaScript언어로 만들어진 Flow 기반의 사물 인터넷 와
 * 컴퓨터와 유저 간에 가위 바위 보 게임
 
 ## 블록도
-![xzcxzc](https://user-images.githubusercontent.com/86651809/174607899-b3137f37-63ab-4148-877c-0d85b1c41598.JPG)
+![block](https://user-images.githubusercontent.com/86651809/174974424-52cc92fc-a383-409d-a5a4-bd8c8ffff832.PNG)
 
 ## 구현 영상
 https://user-images.githubusercontent.com/86651809/174692405-baeecc64-c0b9-4c50-84e7-49187d02c258.mp4
